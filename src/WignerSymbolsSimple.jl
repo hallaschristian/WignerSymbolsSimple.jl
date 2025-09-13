@@ -1,4 +1,4 @@
-module WignerSymbols_Simple
+module WignerSymbolsSimple
 
 using HalfIntegers
 
