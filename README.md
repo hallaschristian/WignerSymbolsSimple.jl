@@ -1,1 +1,1 @@
-# WignerSymbols_Simple
+# WignerSymbolsSimple
