@@ -132,5 +132,6 @@ function wigner9j(j1, j2, j3, j4, j5, j6, j7, j8, j9)::Float64
     end 
     return val
 end
+export wigner9j
 
 end
